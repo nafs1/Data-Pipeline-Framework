@@ -1,0 +1,26 @@
+{
+    "pipelineName": "Pipeline3",
+    "taskList": [
+        {
+            "TaskId": "1",
+            "Name": "normalize"
+        },
+        {
+            "TaskId": "2",
+            "Name": "dummytask"
+        },
+        {
+            "TaskId": "3",
+            "Name": "removenan"
+        },
+        {
+            "TaskId": "4",
+            "Name": "removenegative"
+        },
+        {
+            "TaskId": "5",
+            "Name": "dummy_task"
+        }
+    ],
+    "totalTask": "5"
+}

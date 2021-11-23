@@ -1,0 +1,34 @@
+{
+    "taskName": "dummy_task",
+    "inputName": "iris",
+    "input": [
+        {
+            "sr_no": "1",
+            "name": "sepal_length",
+            "Data_type": "float",
+            "default_val": "0.0"
+        },
+        {
+            "sr_no": "2",
+            "name": "sepal_width",
+            "Data_type": "float",
+            "default_val": "0.0"
+        }
+    ],
+    "executor": "removenan.py",
+    "outputName": "iris",
+    "output": [
+        {
+            "sr_no": "1",
+            "name": "sepal_length",
+            "Data_type": "float",
+            "default_val": "0.0"
+        },
+        {
+            "sr_no": "2",
+            "name": "sepal_width",
+            "Data_type": "float",
+            "default_val": "0.0"
+        }
+    ]
+}

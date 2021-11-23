@@ -1,0 +1,22 @@
+{
+    "taskName": "normalize",
+    "inputName": "iris",
+    "input": [
+        {
+            "sr_no": "1",
+            "name": "PetalWidth",
+            "Data_type": "float",
+            "default_val": "0.0"
+        }
+    ],
+    "executor": "normalize.py",
+    "outputName": "iris",
+    "output": [
+        {
+            "sr_no": "1",
+            "name": "PetalWidth",
+            "Data_type": "float",
+            "default_val": "0.0"
+        }
+    ]
+}

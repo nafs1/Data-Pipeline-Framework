@@ -1,0 +1,12 @@
+Starting pipeline...Pipeline3
+Task 1/5:1_normalize started
+Task 1/5:1_normalize Completed
+Task 2/5:2_dummytask started
+Task 2/5:2_dummytask Completed
+Task 3/5:3_removenan started
+Task 3/5:3_removenan Completed
+Task 4/5:4_removenegative started
+Task 4/5:4_removenegative Completed
+Task 5/5:5_dummy_task started
+Task 5/5:5_dummy_task Completed
+Pipeline  Completed
